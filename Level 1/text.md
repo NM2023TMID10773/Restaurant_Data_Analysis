@@ -1,6 +1,6 @@
-Key Tasks in Level 3
+## Key Tasks in Level 3
 
-Task 1: Predictive Modeling
+# Task 1: Predictive Modeling
 
 Build regression models to predict restaurant aggregate ratings.
 Split the dataset into training and testing sets.
